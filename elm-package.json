@@ -1,12 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "summary": "Cardinal Numbers as a type",
     "repository": "http://github.com/fresheyeball/elm-cardinal.git",
     "license": "MIT",
     "source-directories": [
         "."
     ],
-    "exposed-modules": ["Cardinal"],
+    "exposed-modules": [
+        "Cardinal"
+    ],
     "dependencies": {
         "elm-lang/core": "3.0.0 <= v < 4.0.0"
     },
