@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.0",
     "summary": "Cardinal Numbers as a type",
     "repository": "http://github.com/Fresheyeball/elm-cardinal.git",
     "license": "MIT",
