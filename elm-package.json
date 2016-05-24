@@ -1,16 +1,16 @@
 {
     "version": "1.0.0",
-    "summary": "Cardinal Numbers as a type",
-    "repository": "http://github.com/Fresheyeball/elm-cardinal.git",
+    "summary": "Expanded Numbers as a type (infinite allowed)",
+    "repository": "http://github.com/Fresheyeball/elm-number-expanded.git",
     "license": "MIT",
     "source-directories": [
         "."
     ],
     "exposed-modules": [
-        "Cardinal"
+        "Number.Expanded"
     ],
     "dependencies": {
-        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+        "elm-lang/core": "4.0.0 <= v < 5.0.0"
     },
-    "elm-version": "0.16.0 <= v < 0.17.0"
+    "elm-version": "0.17.0 <= v < 0.18.0"
 }
