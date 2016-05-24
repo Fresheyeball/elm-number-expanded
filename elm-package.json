@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Expanded Numbers as a type (infinite allowed)",
     "repository": "http://github.com/Fresheyeball/elm-number-expanded.git",
     "license": "MIT",
